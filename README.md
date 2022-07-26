@@ -51,7 +51,8 @@
         * Country
         * Current weather description with the maximum temperature
         ![WeatherPy_travel_map](https://user-images.githubusercontent.com/107228424/181079628-13041686-c73c-45b2-86b5-59019daaeacb.png)
-        ![WeatherPy_travel_map](https://user-images.githubusercontent.com/107228424/181079649-17bcef6d-3e04-4792-8e0c-c8d596309ffb.png)
+        ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/107228424/181081068-78eb5d6b-be3b-4e24-8150-6dfbe4b9e13b.png)
+
 
 
 
